@@ -46,6 +46,7 @@ To see how you can add code snippets, see below:
   align-items: center;
   min-height: 100vh;
 }
+```
 
 
 ### Continued development
