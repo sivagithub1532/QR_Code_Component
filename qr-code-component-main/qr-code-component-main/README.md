@@ -65,7 +65,7 @@ Optimize for larger screen sizes with better spacing and layout considerations.
 ## Author
 
 - Website - [venkata siva vattikuti](https://github.com/sivagithub1532)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sivagithub1532)
+- Frontend Mentor - [@sivagithub1532](https://www.frontendmentor.io/profile/sivagithub1532)
 
 ## Acknowledgments
 
