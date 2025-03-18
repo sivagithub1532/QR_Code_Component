@@ -59,7 +59,7 @@ Optimize for larger screen sizes with better spacing and layout considerations.
 ### Useful resources
 
 - CSS Tricks (https://css-tricks.com/) - Flexbox Guide - Helped with flexbox centering and alignment.
--MDN Web Docs (https://developer.mozilla.org/en-US/) - Responsive Design - Improved my approach to mobile-first styling.
+- MDN Web Docs (https://developer.mozilla.org/en-US/) - Responsive Design - Improved my approach to mobile-first styling.
 
 
 ## Author
